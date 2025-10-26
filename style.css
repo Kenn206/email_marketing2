@@ -46,7 +46,7 @@
 .SunHomes-uuDai__desp {
     display: flex;
     justify-content: space-between;
-    margin-top: 5px;
+    /* margin-top: 5px; */
 }
 .gift {
     animation: giftANM 1s infinite;
@@ -63,6 +63,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-top: 20px;
 }
 .SunHomes-uuDai__desp .label__desp {
     display: flex;
